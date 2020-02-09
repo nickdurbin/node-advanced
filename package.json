@@ -1,0 +1,25 @@
+{
+  "name": "node-advanced",
+  "version": "1.0.0",
+  "description": "Advanced Concepts",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdurbin/node-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdurbin/node-advanced/issues"
+  },
+  "homepage": "https://github.com/nickdurbin/node-advanced#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
